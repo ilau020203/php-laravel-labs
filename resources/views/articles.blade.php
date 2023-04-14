@@ -32,7 +32,7 @@
                         <input type="text" name="name" id = "name" placeholder = "Введите название статьи"></input>
                         <input type="text" name="tags" id = "tags" placeholder = "Введите тег"></input>
                         <button type="submit">Поиск</button>
-                        <a href="http://127.0.0.1:8000/articles">Все статьи</a>
+                        <a href="http://u8200618-lab2.local/articles">Все статьи</a>
                     </form>
                 </div>
             </div>
