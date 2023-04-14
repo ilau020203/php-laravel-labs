@@ -56,7 +56,7 @@
                         <td>{{ $article->name }}</td>
                         <td>{{ $article->symbolcode }}</td>
                         <td>{{ $article->content }}</td>
-                        <td>{{ $article->create_time }}</td>
+                        <td>{{ $article->created_at }}</td>
                         <td>{{ $article->author }}</td>
                         
                     </tr>
